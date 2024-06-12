@@ -5,6 +5,8 @@ link: https://logic-arrows.io/map-5_1EXRo4
 ### Конструкции
 
 ## Компьютер
+![Opera Снимок_2024-06-12_102021_logic-arrows io](https://github.com/cubefj/my_map_with_logic_arrows/assets/167609406/3712e39c-591f-4ecd-ad1e-a3b60b36254a)
+
 У него есть:
 1. дисплей
 2. рандомайзер 3 битов
