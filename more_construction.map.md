@@ -2,7 +2,7 @@ my map 0;
 ### На этой карте много конструкций ot onigiri.
 link: https://logic-arrows.io/map-5_1EXRo4
 
-### Конструкции
+# Конструкции
 
 ## Компьютер
 ![Opera Снимок_2024-06-12_102021_logic-arrows io](https://github.com/cubefj/my_map_with_logic_arrows/assets/167609406/3712e39c-591f-4ecd-ad1e-a3b60b36254a)
@@ -16,13 +16,13 @@ link: https://logic-arrows.io/map-5_1EXRo4
 Под него можно писать программы.
 В нём много входов и выходов они собраны в один пучок и обозначены типа mi(memory input) или mo(memory output)
 
-# Программы
+### Программы
 Для него написана первая программа (мной же), программа tmspc( the most small programm for pc ( самая маленькая программа для пк ))
 Она выводит "hello world" на дисплей.
-:
+
 ![Opera Снимок_2024-06-12_112708_logic-arrows io](https://github.com/cubefj/my_map_with_logic_arrows/assets/167609406/26ba0fc6-9dc7-47eb-a5cb-f78e7d6972ee)
-:
-ps. если что проги можно присылать на телегу @programiestert ps2. если спамить, буду блокировать (:
+
+ps. если что проги можно присылать на телегу @programiestert, любым буду рад. ps2. если спамить, буду блокировать (:
 
 ## Графический редактор
 ![Opera Снимок_2024-06-12_102235_logic-arrows io](https://github.com/cubefj/my_map_with_logic_arrows/assets/167609406/96e2341a-6a80-441c-bd36-71e432c865c8)
