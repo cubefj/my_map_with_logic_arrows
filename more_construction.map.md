@@ -18,15 +18,23 @@ link: https://logic-arrows.io/map-5_1EXRo4
 
 
 ## граф редактор
+![Opera Снимок_2024-06-12_102235_logic-arrows io](https://github.com/cubefj/my_map_with_logic_arrows/assets/167609406/96e2341a-6a80-441c-bd36-71e432c865c8)
+
 есть кнопка del инвертирует цвета.
 
 ## казино
+![Opera Снимок_2024-06-12_102351_logic-arrows io](https://github.com/cubefj/my_map_with_logic_arrows/assets/167609406/7cdf8c7d-1dce-4338-99bc-45b9bf95c09e)
+
 нажимаешь на кнопку смотришь на результат.
 
 ## антенна
+![Opera Снимок_2024-06-12_102458_logic-arrows io](https://github.com/cubefj/my_map_with_logic_arrows/assets/167609406/d60c4e24-11e6-4c54-bf25-deb2b4ba3cad)
+
 если в аннтену приходит сигнал она его ловит в ловушку для изучения.
 
 ## транзисторы 
+![Opera Снимок_2024-06-12_102531_logic-arrows io](https://github.com/cubefj/my_map_with_logic_arrows/assets/167609406/0de932ef-99d3-4ad6-9f1f-6261d46adf5f)
+
 Ну понятно.
 
 
