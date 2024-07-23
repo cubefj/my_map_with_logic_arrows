@@ -22,8 +22,6 @@ link: https://logic-arrows.io/map-5_1EXRo4
 
 ![Opera Снимок_2024-06-12_112708_logic-arrows io](https://github.com/cubefj/my_map_with_logic_arrows/assets/167609406/26ba0fc6-9dc7-47eb-a5cb-f78e7d6972ee)
 
-ps. если что проги можно присылать на телегу @programiestert, любым буду рад. ps2. если спамить, буду блокировать (:
-
 ## Графический редактор
 ![Opera Снимок_2024-06-12_102235_logic-arrows io](https://github.com/cubefj/my_map_with_logic_arrows/assets/167609406/96e2341a-6a80-441c-bd36-71e432c865c8)
 
